@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"KioskApp.Accounts"},{"l":"KioskApp.FrontEnd"},{"l":"KioskApp.Inventory"}];updateSearchResults();

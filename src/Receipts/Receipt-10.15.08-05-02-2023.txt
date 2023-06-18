@@ -1,0 +1,32 @@
+Store: Example Store
+Register: Kiosk Number
+Date and Time: 10:15 05/02/2023
+Payment Type: Cash
+
+Bakery Items: 
+073435002918	King's Hawaiian Original Sweet Rolls 12 Count	3.99 x 1
+
+Pantry Items: 
+N/A
+
+Frozen Items: 
+N/A
+
+Produce Items: 
+x	Bananas	0.24 x 1
+x	Raspberries	2.99 x 1
+x	Clementine Mandarines	4.99 x 1
+x	Blueberries 1 pt	4.19 x 1
+
+Dairy Items: 
+N/A
+
+Misc Items: 
+N/A
+
+Items: 5
+
+Sub-total: $16.40
+Tax: $0.00
+
+Total : $16.40
